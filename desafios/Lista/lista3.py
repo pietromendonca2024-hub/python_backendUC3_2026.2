@@ -7,5 +7,7 @@ Exiba a lista atualizada.
 
 """
 nomes = ["Ana", "Bruno", "Carlos"]
+
 nomes.append("Diana")
+
 print(nomes)
